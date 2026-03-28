@@ -1,1 +1,1 @@
-# calci
+This Java AWT-based calculator application provides a GUI with buttons for digits and operations (+, −, ×, =, Clear). It handles user input, performs arithmetic operations using event handling, manages multiple conditions for calculations, and displays results dynamically in the text field.
